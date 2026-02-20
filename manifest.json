@@ -1,6 +1,6 @@
 {
-  "name": "EPhone",
-  "short_name": "EPhone",
+  "name": "WeChat",
+  "short_name": "WeChat",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f4f4f4",
